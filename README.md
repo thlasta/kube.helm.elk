@@ -15,3 +15,5 @@ kubectl create namespace logging
 
 # Jump one folder up, and apply to the whole folder:
 kubectl apply -f elk/
+
+repo add elastic https://Helm.elastic.co
